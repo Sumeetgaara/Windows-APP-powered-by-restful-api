@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lol", "lol\lol.csproj", "{1F998C40-0DE2-46C8-8C04-5E1173F8D86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockDataLayer", "StockDataLayer\StockDataLayer.csproj", "{77575189-BCF7-4805-B5B4-279F0B5B4167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F998C40-0DE2-46C8-8C04-5E1173F8D86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F998C40-0DE2-46C8-8C04-5E1173F8D86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F998C40-0DE2-46C8-8C04-5E1173F8D86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F998C40-0DE2-46C8-8C04-5E1173F8D86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77575189-BCF7-4805-B5B4-279F0B5B4167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77575189-BCF7-4805-B5B4-279F0B5B4167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77575189-BCF7-4805-B5B4-279F0B5B4167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77575189-BCF7-4805-B5B4-279F0B5B4167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
